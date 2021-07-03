@@ -6,7 +6,7 @@ h1 {
   font-size: 38px;
 }
 p {
-  color: rgb(99, 99, 99);
+  color: #636363;
 }
 .orange-color {
   color: orange;
@@ -21,6 +21,7 @@ p {
 }
 .half-width img {
   width: 80%;
+  padding-top: 5px;
 }
 .link-button {
   text-decoration: none;
