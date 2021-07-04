@@ -63,6 +63,9 @@ p {
   border-image: linear-gradient(blue, yellow);
   border-image-slice: 1;
 }
+footer {
+  background-color: #ffd3a9;
+}
 footer p {
   text-align: center;
 }
